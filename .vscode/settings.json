@@ -1,0 +1,5 @@
+{
+    "prettier.tabWidth": 2,
+    "editor.colorDecorators": true,
+    "editor.hover.enabled": true
+}
